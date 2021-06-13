@@ -1,10 +1,11 @@
 import logo from './logo.svg';
 import './App.css';
+import HomeComponent from './HomeComponent'; 
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
+      {/* <header className="App-header">
         <div class='home'>
           <span class='child'> VEG</span>
           <span class='child'>NON_VEG</span>
@@ -12,7 +13,9 @@ function App() {
         </div>
 
 
-      </header>
+  </header> */}
+    <HomeComponent  increment={1}/>
+  
     </div>
   );
 }
