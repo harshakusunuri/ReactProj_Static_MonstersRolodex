@@ -1,4 +1,7 @@
-<<<<<<< HEAD
+Built and Hosted a static react webapp in Github
+Webpage Link: (https://harshakusunuri.github.io/ReactProj_Static_MonstersRolodex/)
+
+Here goes basic description:
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
